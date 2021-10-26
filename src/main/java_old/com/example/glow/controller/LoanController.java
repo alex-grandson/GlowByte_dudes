@@ -3,11 +3,13 @@ package com.example.glow.controller;
 import com.example.glow.controller.dto.LoansData;
 import com.example.glow.entity.postgreSql.ApplicationsResource;
 import com.example.glow.service.LoanDataResourceDataService;
+import com.example.glow.service.LoansResourceDataService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 

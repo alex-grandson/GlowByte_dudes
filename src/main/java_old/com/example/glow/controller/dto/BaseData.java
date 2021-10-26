@@ -11,7 +11,7 @@ public class BaseData {
 
     private String custFio;
     private Long custId;
-    private Date custBirth;
+    private Long custBirth;
     private String custInn;
 
 }

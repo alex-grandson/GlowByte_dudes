@@ -7,11 +7,9 @@ import java.sql.Date;
 
 @Data
 @Builder
-public class BaseData {
-
+public class GuarantorBoolData {
     private String custFio;
-    private Long custId;
-    private Date custBirth;
-    private String custInn;
-
+    private String guarantorFio;
+    private String guarantorPhone;
+    private Date guarantorBirth;
 }

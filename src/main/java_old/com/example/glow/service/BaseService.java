@@ -43,7 +43,7 @@ public class BaseService {
                     data.add(BaseData.builder().
                             custFio(fio.get(i).getClientFio())
                             .custId(fio.get(i).getClientId())
-                            .custBirth(birthDt.get(i).getClientBirthDt())
+                            .custBirth(birthDt.get(i).getClientBirthDt().getTime())
                             .custInn(inn.get(i).getClientInn()).build());
                 }
             }
