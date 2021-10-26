@@ -2,7 +2,7 @@
 
 ## Usage
 
-0. Enter demonstration web-page `joeyke.ru:4030`
+0. Enter demonstration web-page `joeyke.ru:4060`
 1. Enter clients full names to see detailed info about their credit history
 2. Enjoy 
 
@@ -17,7 +17,7 @@
 ## Requirements
 
 - `open11jdk`
-- maven
+- `maven`
 - Up and running PSQL, MySQL, MongoDB, Neo4j
 
 ## Deploynment
