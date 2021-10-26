@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8c17e85-20ee-439f-b91f-16d7bb13dc24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ea61ef7c-5e97-476f-8e4f-4c2b898aafe8" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="1yub1tzp" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2022n5t26YCAYqak7SWCupvzat2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GlowApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="glow" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.glow.GlowApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8c17e85-20ee-439f-b91f-16d7bb13dc24" name="Default Changelist" comment="" />
+      <created>1635228526513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635228526513</updated>
+      <workItem from="1635228527731" duration="948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="61" key="#SSH_Configurations" timestamp="1635228565891">
+      <screen x="0" y="23" width="1440" height="774" />
+    </state>
+    <state x="303" y="61" key="#SSH_Configurations/0.23.1440.774@0.23.1440.774" timestamp="1635228565891" />
+    <state x="221" y="48" key="SettingsEditor" timestamp="1635228579119">
+      <screen x="0" y="23" width="1440" height="774" />
+    </state>
+    <state x="221" y="48" key="SettingsEditor/0.23.1440.774@0.23.1440.774" timestamp="1635228579119" />
+    <state x="320" y="149" key="Vcs.Push.Dialog.v2" timestamp="1635228767261">
+      <screen x="0" y="23" width="1440" height="774" />
+    </state>
+    <state x="320" y="149" key="Vcs.Push.Dialog.v2/0.23.1440.774@0.23.1440.774" timestamp="1635228767261" />
+    <state x="518" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635229477671">
+      <screen x="0" y="23" width="1440" height="774" />
+    </state>
+    <state x="518" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.774@0.23.1440.774" timestamp="1635229477671" />
+    <state x="626" y="146" key="ftp.server.browser" timestamp="1635228574395">
+      <screen x="0" y="23" width="1440" height="774" />
+    </state>
+    <state x="626" y="146" key="ftp.server.browser/0.23.1440.774@0.23.1440.774" timestamp="1635228574395" />
+  </component>
+</project>
