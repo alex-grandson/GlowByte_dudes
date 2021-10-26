@@ -32,7 +32,7 @@ public class MongoController {
      * Get data from services and pack it in a Json-form for response to front-end
      * @return list of all crucial data from MongoDB database
      */
-    @GetMapping("/mongo")
+    @GetMapping("/interview")
     @CrossOrigin
     @ResponseBody
     public ResponseEntity<List<InterviewResource>> getAl() {
